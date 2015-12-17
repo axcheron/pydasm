@@ -1,11 +1,11 @@
 /*
  * pydasm -- Python module wrapping libdasm
  * (c) 2005 ero / dkbza.org
- *
+ * (c) 2015 axc
 */
 
 #include <Python.h>
-#include "libdasm.h"
+#include "./libdasm/libdasm.h"
 
 
 #define INSTRUCTION_STR_BUFFER_LENGTH   256

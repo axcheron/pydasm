@@ -9,7 +9,7 @@ module = Extension(
     include_dirs=[incdir],
     libraries=[],
     library_dirs=[],
-    sources=['libdasm.c', 'pydasm.c']
+    sources=['./libdasm/libdasm.c', 'pydasm.c']
 )
 
 setup(
