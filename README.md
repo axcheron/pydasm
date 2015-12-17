@@ -1,9 +1,9 @@
 # pydasm
 
-pydasm is a python wrapper for [libdasm](https://github.com/axcheron/libdasm). It attempts to capture all the
-functionality of libdasm and bring its versatility to Python.
+I had some trouble compiling **pydasm** on recent Windows platforms. This "slightly" modified version should works on
+Windows 7/8/10 (Only tested on Windows 10).
 
-This fork fix the bug "error: Unable to find vcvarsall.bat" on Windows.
+**pydasm** is a python wrapper for [libdasm](https://github.com/axcheron/libdasm).
 
 ## Installation
 
@@ -35,7 +35,6 @@ while offset < len(buffer):
 Thanks to jt, skape, thief, spoonm and fine folks @nologin responsible for libdasm !
 Special thanks to ero for creating and contributing pydasm.
 
-
 ## License
 
-See LICENCE.txt
+This project is released under the BSD license. See LICENCE.
