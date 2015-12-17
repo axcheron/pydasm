@@ -30,10 +30,6 @@ while offset < len(buffer):
    offset += i.length
 ```
 
-## History
-
-TODO: Write history
-
 ## Credits
 
 Thanks to jt, skape, thief, spoonm and fine folks @nologin responsible for libdasm !
