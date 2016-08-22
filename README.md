@@ -14,7 +14,7 @@ git clone https://github.com/axcheron/pydasm
 python setup.py install
 ```
 
-Also, if you don't already have it, you can find the last version of [Python 2.7 here](https://www.python.org/download/releases/2.7/).
+Also, if you don't already have it, you can find the last version of [Python 2.7 here](https://www.python.org/downloads/).
 
 ## Usage
 
