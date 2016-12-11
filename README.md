@@ -3,11 +3,13 @@
 I had some trouble compiling **pydasm** on recent Windows platforms. This "slightly" modified version should works on
 Windows 7/8/10 (Only tested on Windows 10).
 
-**pydasm** is a python wrapper for [libdasm](https://github.com/axcheron/libdasm).
+## What is pydasm ?
+
+**pydasm** is a python wrapper for [libdasm](https://github.com/axcheron/libdasm). It attempts to capture all the functionality of libdasm and bring its versatility to Python.
 
 ## Installation
 
-First, install [Microsoft Visual C++ Compiler for Python 2.7 ](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
+First, install [Microsoft Visual C++ Compiler for Python 2.7](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
 
 ```bash
 git clone https://github.com/axcheron/pydasm
